@@ -1,7 +1,7 @@
 name: JoeJones
 favicon: null
-layout_spectrum: 0.4171676381956786
-typography_spectrum: 0.916872538626194
+layout_spectrum: 0.2736
+typography_spectrum: 0.05395
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.08396825729869306
-  lightness: 0.34448420093394816
-  saturation: 0.7507146766874939
-  rhythmicContrast: 0.6719363199081272
+    - '#a28164'
+    - '#fa6c54'
+    - '#113044'
+    - '#eeede9'
+    - '#417e9f'
+  brandStrength: 0.5
+  lightness: 0.75
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
