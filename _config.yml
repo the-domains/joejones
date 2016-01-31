@@ -2,6 +2,7 @@ name: JoeJones
 favicon: null
 layout_spectrum: 0.2736
 typography_spectrum: 0.05395
+title: Jones
 cta:
   domain: null
   bucket: null
