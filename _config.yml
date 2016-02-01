@@ -1,7 +1,7 @@
 name: JoeJones
 favicon: null
-layout_spectrum: 0.97784
-typography_spectrum: 0.05395
+layout_spectrum: 0.75241
+typography_spectrum: 0.4894
 title: Jones
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#eeede9'
     - '#417e9f'
   brandStrength: 0
-  lightness: 1
-  saturation: 0.5
-  rhythmicContrast: 0
+  lightness: 0.4375
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []
