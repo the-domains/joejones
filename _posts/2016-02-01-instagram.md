@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://www.instagram.com/'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T03:16:08.071Z'
-dateModified: '2016-02-01T03:16:04.339Z'
+datePublished: '2016-02-03T03:06:25.338Z'
+dateModified: '2016-02-03T03:06:23.357Z'
 author: []
 related: []
 app_links: []
@@ -21,6 +20,7 @@ publisher:
   domain: www.instagram.com
   url: 'https://www.instagram.com'
   favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
+url: northwood-design/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
